@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MyMediSpace</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+  <link rel="stylesheet" href="styles/style.min.css" media="screen" title="no title" charset="utf-8">
+  <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
+  <script src="scripts/vendor/jquery-1.11.3.min.js"></script>
+  <script src="scripts/vendor/select2.min.js"></script>
+  <script src="scripts/script.js"></script>
+</head>
+<body class="main">
+  <header id="header">
+    <div class="content-container">
+      <a href="/index.html" class="header-logo">
+        <img src="images/header-logo.png" alt="" />
+      </a>
+      <button class="learn-more-button header-button">Learn more</button>
+      <a href="/why-host.html" class="inform-me-button header-button">Why host</a>
+    </div>
+  </header>
+  <main id="main-content" class="content-wrapper">
+    <section class="introduction-section">
+      <div class="content-container">
+        <div class="about-container">
+          <img src="images/main-bg-2.jpg" class="bg-image" alt="" />
+          <p class="about-text">
+            <span class="about-title">MyMediSpace</span>
+            At MyMediSpace, our goal is create a market place that will assist dental professionals in finding perfect location and necessary tools to start their business while aiding established dental practices in finding more skillful space utilization.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="steps-section">
+      <form id="popup-form" class="popup-body col-lg-5 col-lg-offset-3 alert alert-info" role="alert">
+        <h4 class="alert-heading">Contact us</h4>
+        <div class="row main-input justify-content-md-center">
+          <div class="form-group col-3">
+            <input type="text" name="firstname" class="form-control form-control-lg" placeholder="Name"/>
+          </div>
+          <div class="form-group col-3">
+            <input type="email" name="email" class="form-control form-control-lg" placeholder="Email" required/>
+          </div>
+          <div class="form-group col-4">
+            <input type="tel" name="phone" class="form-control form-control-lg" placeholder="Phone number">
+          </div>
+        </div>
+        <div class="row justify-content-md-center">
+          <button type="submit" class="button popup-button submit btn btn-lg btn-primary ">Request care</button>
+        </div>
+      </form>
+    </section>
+
+
+  </main>
+  <footer id="footer">
+    <section class="footer-section">
+      <div class="content-container">
+        <div class="copyright-info">
+          © 2016 MyMediSpace, Inc.
+        </div>
+        <a href="/pricing.html" class="pricing-link">
+          The pricing
+        </a>
+        <a href="#" class="footer-logo">
+          <img src="images/logo.png" alt="" />
+        </a>
+        <div class="social-buttons">
+          <a href="https://www.facebook.com/MyMediSpace" class="social-button fb">
+            <i class="icon fa fa-facebook"></i>
+          </a>
+          <!--a href="#" class="social-button tw">
+            <i class="icon fa fa-twitter"></i>
+          </a>
+          <a href="#" class="social-button li">
+            <i class="icon fa fa-linkedin-square"></i>
+          </a-->
+          <a href="mailto:info@mymedispace.com" class="social-button mail">
+            <i class="icon fa fa-envelope-o"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+  </footer>
+
+  <div class="popup-wrapper subscription-popup">
+    <div class="popup-container form-container">
+      <header class="popup-header">
+        <div class="popup-title">
+          Send email
+        </div>
+      </header>
+      <form id="popup-form" class="popup-body">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="input-wrapper">
+              <label for="firstname">First Name</label>
+              <input type="text" name="firstname" />
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="input-wrapper">
+              <label for="lastname">Last Name</label>
+              <input type="text" name="lastname" />
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="input-wrapper">
+              <label for="email">Email</label>
+              <input type="email" name="email" />
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="input-wrapper">
+              <label for="service-type">Are you looking to</label>
+              <select name="service-type">
+                <option value="rent-space">Rent space</option>
+                <option value="basic-instruments-advanced-materials">Basic Instruments & Advanced Materials</option>
+                <option value="advanced-instruments-basic-materials">Advanced Instruments & Basic Materials</option>
+                <option value="list-space">List space</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </form>
+      <footer class="popup-footer">
+        <button class="popup-button cancel">Cancel</button>
+        <div class="button popup-button submit">Submit</div>
+      </footer>
+    </div>
+  </div>
+
+  <!--<script src="lib/jquery/dist/jquery.slim.min.js" ></script>-->
+  <!--<script src="lib/jquery/dist/jquery.min.js" ></script>-->
+  <script src="lib/tether/dist/js/tether.min.js"></script>
+  <script src="lib/bootstrap/dist/js/bootstrap.min.js" ></script>
+</body>
+</html>

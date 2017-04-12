@@ -1,0 +1,113 @@
+[Thu Jul 07 05:46:05.335596 2016] [:error] [pid 14190] [client 194.158.205.222:62075] PHP Parse error:  syntax error, unexpected '}' in /var/www/medispace/send.php on line 49, referer: http://mymedispace.com/
+[Thu Jul 07 05:46:20.409620 2016] [:error] [pid 14215] [client 194.158.205.222:51022] PHP Parse error:  syntax error, unexpected '}' in /var/www/medispace/send.php on line 49, referer: http://mymedispace.com/
+[Mon Jul 11 10:03:53.488033 2016] [:error] [pid 4108] [client 194.158.205.222:60388] PHP Notice:  Undefined variable: firstname in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:03:53.504118 2016] [:error] [pid 4108] [client 194.158.205.222:60388] PHP Notice:  Undefined variable: lastname in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:03:53.504782 2016] [:error] [pid 4108] [client 194.158.205.222:60388] PHP Notice:  Undefined variable: email_address in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:03:53.504798 2016] [:error] [pid 4108] [client 194.158.205.222:60388] PHP Notice:  Undefined variable: service_type in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:06:35.426983 2016] [:error] [pid 4105] [client 194.158.205.222:60110] PHP Notice:  Undefined variable: firstname in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:06:35.427036 2016] [:error] [pid 4105] [client 194.158.205.222:60110] PHP Notice:  Undefined variable: lastname in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:06:35.427064 2016] [:error] [pid 4105] [client 194.158.205.222:60110] PHP Notice:  Undefined variable: email_address in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:06:35.427084 2016] [:error] [pid 4105] [client 194.158.205.222:60110] PHP Notice:  Undefined variable: service_type in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:09:14.812177 2016] [:error] [pid 4157] [client 194.158.205.222:57073] PHP Parse error:  syntax error, unexpected '[' in /var/www/medispace/savetodb.php on line 6, referer: http://mymedispace.com/
+[Mon Jul 11 10:24:20.739588 2016] [:error] [pid 4157] [client 194.158.205.222:51073] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /var/www/medispace/show.php on line 15
+[Mon Jul 11 10:24:26.428417 2016] [:error] [pid 4207] [client 194.158.205.222:52477] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /var/www/medispace/show.php on line 15
+[Mon Jul 11 10:25:05.065400 2016] [:error] [pid 4157] [client 194.158.205.222:63112] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /var/www/medispace/show.php on line 15
+[Mon Jul 11 10:25:07.675596 2016] [:error] [pid 4207] [client 194.158.205.222:63289] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /var/www/medispace/show.php on line 15
+[Fri Jul 22 01:21:17.554445 2016] [:error] [pid 1140] [client 151.80.18.236:49704] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Fri Jul 22 01:21:52.509448 2016] [:error] [pid 1141] [client 151.80.18.236:62752] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 02 22:20:14.173927 2016] [:error] [pid 20287] [client 52.90.114.41:54036] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Wed Aug 03 05:55:07.721451 2016] [:error] [pid 22001] [client 31.184.234.145:57975] script '/var/www/medispace/xmlrpc.php' not found or unable to stat, referer: https://google.com
+[Wed Aug 03 21:21:09.904658 2016] [:error] [pid 29910] [client 52.90.147.170:57220] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Thu Aug 04 05:04:16.797657 2016] [:error] [pid 8871] [client 31.184.234.145:55698] script '/var/www/medispace/xmlrpc.php' not found or unable to stat, referer: https://google.com
+[Thu Aug 04 23:53:57.691623 2016] [:error] [pid 1655] [client 54.197.18.249:57739] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sat Aug 06 15:05:29.797994 2016] [:error] [pid 6155] [client 54.149.57.2:56060] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 11:34:38.891070 2016] [:error] [pid 15029] [client 86.62.112.183:64767] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 11:41:18.051082 2016] [:error] [pid 15029] [client 86.62.112.183:49753] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 11:56:26.398785 2016] [:error] [pid 15195] [client 31.173.81.123:16913] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 12:01:28.960313 2016] [:error] [pid 14607] [client 104.168.142.26:53000] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 12:01:29.607229 2016] [:error] [pid 15029] [client 104.168.142.26:53072] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 12:01:29.771638 2016] [:error] [pid 14607] [client 104.168.142.26:53084] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 12:01:30.085859 2016] [:error] [pid 15038] [client 104.168.142.26:53112] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 12:01:30.442089 2016] [:error] [pid 15029] [client 104.168.142.26:53147] script '/var/www/medispace/index.php' not found or unable to stat
+[Tue Aug 16 12:03:29.840079 2016] [:error] [pid 14999] [client 31.173.81.123:1828] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 12:17:53.433945 2016] [:error] [pid 15359] [client 188.162.171.28:65156] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 12:25:35.214454 2016] [:error] [pid 15038] [client 188.162.171.28:50532] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 12:53:18.938956 2016] [:error] [pid 15479] [client 125.165.77.94:62771] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 13:06:10.246577 2016] [:error] [pid 15699] [client 125.165.77.94:51127] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 13:17:02.553319 2016] [:error] [pid 15492] [client 94.25.229.6:56648] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 13:24:00.261173 2016] [:error] [pid 15770] [client 94.25.229.6:58735] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 13:43:49.180198 2016] [:error] [pid 15833] [client 95.153.134.47:35071] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 13:54:13.756345 2016] [:error] [pid 15990] [client 95.153.134.47:5793] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Aug 16 14:06:41.685758 2016] [:error] [pid 15833] [client 109.187.42.60:58513] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Aug 16 14:12:13.315442 2016] [:error] [pid 15964] [client 109.187.42.60:60252] script '/var/www/medispace/admin.php' not found or unable to stat
+[Wed Sep 07 14:33:40.744887 2016] [:error] [pid 20733] [client 66.248.199.205:45948] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Wed Sep 21 12:34:32.757589 2016] [:error] [pid 20017] [client 104.200.154.84:62486] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Wed Sep 21 12:34:33.398857 2016] [:error] [pid 20339] [client 104.200.154.84:62547] script '/var/www/medispace/admin.php' not found or unable to stat
+[Wed Sep 21 12:34:33.555948 2016] [:error] [pid 20017] [client 104.200.154.84:62558] script '/var/www/medispace/admin.php' not found or unable to stat
+[Wed Sep 21 12:34:33.883711 2016] [:error] [pid 20336] [client 104.200.154.84:62593] script '/var/www/medispace/admin.php' not found or unable to stat
+[Wed Sep 21 12:34:34.197080 2016] [:error] [pid 20339] [client 104.200.154.84:62614] script '/var/www/medispace/index.php' not found or unable to stat
+[Sat Sep 24 18:14:15.812270 2016] [:error] [pid 24360] [client 5.39.222.22:47133] script '/var/www/medispace/index.php' not found or unable to stat
+[Sat Sep 24 18:14:16.178704 2016] [:error] [pid 24466] [client 5.39.222.22:47155] script '/var/www/medispace/index.php' not found or unable to stat
+[Fri Sep 30 10:20:03.283850 2016] [:error] [pid 7498] [client 54.71.205.237:48876] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Fri Sep 30 19:29:00.248155 2016] [:error] [pid 10793] [client 54.166.183.32:60395] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Oct 02 03:01:25.607275 2016] [:error] [pid 26811] [client 54.161.255.143:56720] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Mon Oct 03 11:07:48.620924 2016] [:error] [pid 12232] [client 54.227.227.75:53474] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Mon Oct 03 12:32:09.855320 2016] [:error] [pid 12974] [client 51.254.67.122:58777] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Mon Oct 03 17:51:02.091504 2016] [:error] [pid 15255] [client 50.62.22.201:45245] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Tue Oct 04 23:02:46.116124 2016] [:error] [pid 27876] [client 124.124.197.72:33706] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Oct 11 10:20:22.179909 2016] [:error] [pid 12607] [client 93.85.142.114:57813] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Oct 11 10:24:46.714638 2016] [:error] [pid 12222] [client 93.85.142.114:11446] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Oct 11 10:33:17.831220 2016] [:error] [pid 12606] [client 37.54.211.133:27568] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Oct 11 10:39:24.462387 2016] [:error] [pid 13036] [client 37.54.211.133:29481] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Oct 11 11:42:40.825344 2016] [:error] [pid 11888] [client 5.18.174.151:61321] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Oct 11 11:48:30.266638 2016] [:error] [pid 13684] [client 5.18.174.151:64514] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Oct 11 22:14:09.089398 2016] [:error] [pid 17303] [client 62.220.39.149:35690] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Oct 11 22:16:26.506838 2016] [:error] [pid 18128] [client 62.220.39.149:36745] script '/var/www/medispace/admin.php' not found or unable to stat
+[Tue Oct 11 22:39:40.522935 2016] [:error] [pid 17927] [client 178.215.112.100:9226] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Oct 11 22:46:18.046848 2016] [:error] [pid 17927] [client 178.215.112.100:5812] script '/var/www/medispace/admin.php' not found or unable to stat
+[Thu Oct 13 05:40:42.664451 2016] [autoindex:error] [pid 16931] [client 174.127.133.48:34437] AH01276: Cannot serve directory /var/www/medispace/scripts/vendor/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Oct 13 05:41:13.443354 2016] [:error] [pid 17027] [client 174.127.133.50:37242] script '/var/www/medispace/scripts/send.php' not found or unable to stat
+[Sun Oct 30 21:33:12.393106 2016] [:error] [pid 29352] [client 46.119.127.129:57249] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Mon Oct 31 00:31:11.727556 2016] [:error] [pid 31165] [client 91.200.12.155:53972] script '/var/www/medispace/wp-login.php' not found or unable to stat, referer: http://mymedispace.com/wp-login.php
+[Mon Oct 31 00:31:11.929481 2016] [:error] [pid 31165] [client 91.200.12.155:53972] script '/var/www/medispace/wp-login.php' not found or unable to stat, referer: http://mymedispace.com/wp-login.php
+[Wed Nov 16 14:10:30.920976 2016] [:error] [pid 11079] [client 185.129.148.190:46465] script '/var/www/medispace/news.php' not found or unable to stat
+[Wed Nov 16 14:10:30.988046 2016] [:error] [pid 10110] [client 185.129.148.190:46570] script '/var/www/medispace/images/xxx.php' not found or unable to stat
+[Wed Nov 16 14:10:31.069789 2016] [:error] [pid 11254] [client 185.129.148.190:46763] script '/var/www/medispace/infos.php' not found or unable to stat
+[Wed Nov 16 14:12:10.313213 2016] [:error] [pid 11079] [client 185.129.148.190:28435] script '/var/www/medispace/tmp.php' not found or unable to stat
+[Wed Nov 16 14:13:11.035336 2016] [:error] [pid 14434] [client 185.129.148.190:8336] script '/var/www/medispace/wp-main.php' not found or unable to stat
+[Wed Nov 16 14:19:01.889345 2016] [:error] [pid 11254] [client 185.129.148.190:34201] script '/var/www/medispace/sqlibak.php' not found or unable to stat
+[Wed Nov 16 14:22:06.488304 2016] [:error] [pid 11023] [client 185.129.148.190:33822] script '/var/www/medispace/functions.php' not found or unable to stat
+[Wed Nov 16 14:23:38.852720 2016] [:error] [pid 11079] [client 185.129.148.190:30751] script '/var/www/medispace/wp-cache.php' not found or unable to stat
+[Wed Nov 16 14:24:39.044793 2016] [:error] [pid 11254] [client 185.129.148.190:5123] script '/var/www/medispace/images/google-assist.php' not found or unable to stat
+[Wed Nov 16 14:27:28.099175 2016] [:error] [pid 11254] [client 185.129.148.190:14087] script '/var/www/medispace/maill.php' not found or unable to stat
+[Wed Nov 16 14:29:59.423352 2016] [:error] [pid 14434] [client 185.129.148.190:62771] script '/var/www/medispace/includes.php' not found or unable to stat
+[Wed Nov 16 14:31:35.263502 2016] [:error] [pid 10110] [client 185.129.148.190:37970] script '/var/www/medispace/configurationbak.php' not found or unable to stat
+[Fri Nov 18 05:20:40.437373 2016] [:error] [pid 26578] [client 54.87.140.236:57952] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Fri Nov 18 15:11:16.869114 2016] [:error] [pid 29646] [client 54.87.140.236:47826] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Tue Nov 22 15:58:24.630956 2016] [:error] [pid 10998] [client 35.164.156.186:59171] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Thu Nov 24 06:10:15.822853 2016] [:error] [pid 31392] [client 178.162.205.21:50245] script '/var/www/medispace/index.php' not found or unable to stat, referer: http://MYMEDISPACE.COM/index.php/admin/
+[Thu Dec 22 16:16:13.036918 2016] [:error] [pid 3681] [client 178.137.87.242:64343] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Fri Dec 23 11:19:03.170173 2016] [:error] [pid 14486] [client 185.129.148.190:24868] script '/var/www/medispace/hetlerx.php' not found or unable to stat
+[Sun Jan 01 05:31:42.173372 2017] [:error] [pid 7128] [client 94.233.62.238:51900] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Jan 01 05:32:31.841426 2017] [:error] [pid 7142] [client 94.233.62.238:52318] script '/var/www/medispace/admin.php' not found or unable to stat
+[Sun Jan 01 05:40:57.894171 2017] [:error] [pid 6535] [client 46.201.161.42:56433] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Jan 01 05:42:14.188906 2017] [:error] [pid 7128] [client 46.201.161.42:57043] script '/var/www/medispace/admin.php' not found or unable to stat
+[Sun Jan 01 06:00:11.532627 2017] [:error] [pid 7612] [client 195.208.161.153:59009] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Jan 01 06:03:22.351899 2017] [:error] [pid 7128] [client 195.208.161.153:63141] script '/var/www/medispace/admin.php' not found or unable to stat
+[Sun Jan 01 06:42:14.700445 2017] [:error] [pid 8590] [client 85.12.236.140:2889] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Jan 01 06:51:01.093416 2017] [:error] [pid 7610] [client 85.12.236.140:1443] script '/var/www/medispace/admin.php' not found or unable to stat
+[Sun Jan 01 06:53:49.614520 2017] [:error] [pid 8587] [client 95.76.2.100:31806] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Jan 01 07:05:14.661192 2017] [:error] [pid 7610] [client 95.76.2.100:31969] script '/var/www/medispace/admin.php' not found or unable to stat
+[Sun Jan 01 07:23:31.099332 2017] [:error] [pid 8590] [client 5.141.204.240:27052] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Jan 01 07:38:34.819677 2017] [:error] [pid 8587] [client 5.141.204.240:27179] script '/var/www/medispace/admin.php' not found or unable to stat
+[Sat Jan 07 22:21:28.979020 2017] [:error] [pid 18037] [client 149.202.53.212:33046] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Jan 08 18:13:41.190804 2017] [:error] [pid 1108] [client 149.202.53.212:45710] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Wed Jan 18 23:40:04.910959 2017] [:error] [pid 4634] [client 185.129.148.190:45422] script '/var/www/medispace/forum.php' not found or unable to stat
+[Sun Jan 29 21:19:58.212703 2017] [:error] [pid 11057] [client 46.118.155.228:51077] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Tue Jan 31 00:24:53.799019 2017] [:error] [pid 2706] [client 46.118.155.228:63067] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Tue Feb 14 23:48:52.335192 2017] [:error] [pid 3765] [client 92.222.74.29:39923] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Tue Feb 28 06:52:50.322315 2017] [:error] [pid 25849] [client 220.244.55.3:50714] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Fri Mar 03 16:52:08.924177 2017] [:error] [pid 1004] [client 220.227.234.129:27337] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
+[Sat Mar 11 13:10:37.430874 2017] [:error] [pid 24458] [client 54.191.63.162:59703] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Sun Mar 12 05:29:32.051161 2017] [:error] [pid 16486] [client 35.166.199.112:60591] script '/var/www/medispace/wp-login.php' not found or unable to stat
+[Mon Mar 20 23:10:18.035561 2017] [:error] [pid 16504] [client 92.63.91.84:52113] script '/var/www/medispace/xmlrpc.php' not found or unable to stat
